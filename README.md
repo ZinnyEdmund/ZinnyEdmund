@@ -1,4 +1,5 @@
-👋 Hey there! I'm Zinny Edmund, a frontend developer with a passion for creating elegant, responsive, and interactive web experiences. My work revolves around bringing ideas to life with HTML, CSS, and JavaScript, while constantly exploring cutting-edge tools like React, Next.js, and Vue.js. ✨
-🌱 I believe in lifelong learning, and every project I tackle helps me grow my skills and push boundaries. From solving tricky bugs 🐞 to crafting seamless user interfaces 🎨, I enjoy every step of the development process.
-🌍 I'm particularly excited about building projects that make a positive impact and contribute to a better web for everyone. Whether it's contributing to open source, collaborating on creative ideas 🤝, or just geeking out about web technologies, I'm always up for a meaningful exchange.
-🚀 Take a look at my repositories below, each one tells a story of my journey in frontend development. Let's connect, collaborate, and create something awesome together! 😊
+👋 Hi, I’m Zinny Edmund — a frontend developer passionate about building elegant, responsive, and user-friendly web experiences. I specialize in HTML, CSS, JavaScript, and enjoy working with modern frameworks like React, Next.js, and Vue.js.
+
+I love solving problems, crafting seamless interfaces, and learning new tools that push the boundaries of what the web can do. Whether it’s collaborating on creative projects, contributing to open source, or simply exploring new ideas, I’m always eager to grow and make a positive impact.
+
+Let’s connect and create something amazing! 🚀
